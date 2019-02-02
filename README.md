@@ -263,3 +263,31 @@ CrossOver 是一款可以让我们直接在Mac上安装和运行Windows软件和
 VMware Fusion Pro 将 Mac® 上的虚拟化提升到更高的级别，它拥有强大的功能特性，专业技术人员无需重新启动即可在 Mac 上运行 Windows® 应用。利用针对类似 Windows 10 这样的最新现代操作系统的额外支持，高级用户、开发人员、QA 和 IT 管理员每天都依赖 Fusion Pro 实现高性能、高可用性和领先的功能特性，从而支持在 Mac 上运行 Windows 和 Linux。
 
 ![](Assets/VMwareFusionPro.jpg)
+
+## Adobe Zii
+[**下载地址**](https://media.githubusercontent.com/media/chenjie1219/MacApps/master/APP/Adobe%20Zii.dmg)
+
+![](Icons/AdobeZii.png)
+目前支持以下Adobe CC 2019 Mac 授权激活
+
+Adobe Illustrator CC 2019
+Adobe InCopy CC 2019
+Adobe Prelude CC 2019
+Adobe Premiere Pro CC 2019
+Adobe Photoshop CC 2019
+Adobe After Effects CC 2019
+Adobe Media Encoder CC 2019
+Adobe Lightroom Classic CC 2019
+Adobe Adob​​e Audition CC 2019
+Adobe Bridge CC 2019 v9 .0.2
+Adobe Character Animator CC 2019
+Adobe InDesign CC 2019(New)
+Adobe Lightroom CC 2019(New)
+
+其余的等待TNT团队更新
+
+**使用说明**
+
+安装软件（断网安装不用登陆）并退出，打开破解补丁 Adobe Zii 4.0 TNT，单击“PATCH OR DRAG”,然后会提示权限不够，此时点击“OK”，输入系统密码即可破解成功，提示登录可不予理会，可完美破解使用。
+
+![](Assets/AdobeZii.jpg)
