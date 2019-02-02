@@ -271,17 +271,29 @@ VMware Fusion Pro 将 Mac® 上的虚拟化提升到更高的级别，它拥有�
 目前支持以下Adobe CC 2019 Mac 授权激活
 
 Adobe Illustrator CC 2019
+
 Adobe InCopy CC 2019
+
 Adobe Prelude CC 2019
+
 Adobe Premiere Pro CC 2019
+
 Adobe Photoshop CC 2019
+
 Adobe After Effects CC 2019
+
 Adobe Media Encoder CC 2019
+
 Adobe Lightroom Classic CC 2019
+
 Adobe Adob​​e Audition CC 2019
+
 Adobe Bridge CC 2019 v9 .0.2
+
 Adobe Character Animator CC 2019
+
 Adobe InDesign CC 2019(New)
+
 Adobe Lightroom CC 2019(New)
 
 其余的等待TNT团队更新
