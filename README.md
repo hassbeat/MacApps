@@ -301,9 +301,7 @@ Adobe Lightroom CC 2019(New)
 **使用说明**
 
 安装软件（断网安装不用登陆）并退出，打开破解补丁 Adobe Zii，单击“PATCH OR DRAG”,然后会提示权限不够，此时点击“OK”，输入系统密码即可破解成功，提示登录可不予理会，可完美破解使用。
-
 ![](Assets/AdobeZii.jpg)
-
 ##  Microsoft_Office_2019_VL_Serializer
 [**下载地址**](https://media.githubusercontent.com/media/chenjie1219/MacApps/master/APP/Microsoft_Office_2019_VL_Serializer.dmg)
 
@@ -313,5 +311,4 @@ Adobe Lightroom CC 2019(New)
 **使用说明**
 
 下载并安装 Microsoft Office 2019 for Mac 安装包，然后安装 Microsoft_Office_2019_VL_Serializer.pkg
-
 ![](Assets/Microsoft_Office_2019_VL_Serializer.jpg)
