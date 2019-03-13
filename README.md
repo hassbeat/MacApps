@@ -264,7 +264,7 @@ VMware Fusion Pro 将 Mac® 上的虚拟化提升到更高的级别，它拥有�
 
 ![](Assets/VMwareFusionPro.jpg)
 
-## Adobe Zii
+## Adobe Zii 2019 `4.1.9`
 [**下载地址**](https://media.githubusercontent.com/media/chenjie1219/MacApps/master/APP/Adobe%20Zii.dmg)
 
 ![](Icons/AdobeZii.png)
@@ -312,3 +312,9 @@ Adobe Lightroom CC 2019(New)
 
 下载并安装 Microsoft Office 2019 for Mac 安装包，然后安装 Microsoft_Office_2019_VL_Serializer.pkg
 ![](Assets/Microsoft_Office_2019_VL_Serializer.jpg)
+##  Paragon NTFS `15.4.59`
+[**下载地址**](https://media.githubusercontent.com/media/chenjie1219/MacApps/master/APP/Paragon%20NTFS.dmg)
+
+![](Icons/ParagonNTFS.png)
+Paragon NTFS 可以说是 Mac 上最知名的一款 NTFS 分区驱动了，能够让我们读写 NTFS 分区，因为在Mac OS X 系统上，默认对NTFS分区只能读而不能写，但我们的移动硬盘或U盘很多都是用NTFS进行的分区，所以当你发现在Mac上无法往移动硬盘或U盘中写入数据时，大部分原因是你没有按照NTFS分区驱动，安装此软件即可。
+![](Assets/ParagonNTFS.jpg)
