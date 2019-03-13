@@ -15,7 +15,7 @@
 
 ---
 
-## CleanMyMac X
+## CleanMyMac X `4.3.0`
 [**下载地址**](https://media.githubusercontent.com/media/chenjie1219/MacApps/master/APP/1Password.dmg)
 
 ![](Icons/CleanMyMacX.png)
@@ -144,7 +144,7 @@ MacBooster 是一款Mac上优秀的系统安全扫描和垃圾清理工具，Mac
 
 ![](Assets/MacBooster.jpg)
 
-## iMazing
+## iMazing `2.9.3`
 [**下载地址**](https://media.githubusercontent.com/media/chenjie1219/MacApps/master/APP/iMazing.dmg)
 
 ![](Icons/iMazing.png)
