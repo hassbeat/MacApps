@@ -39,7 +39,7 @@ Hopper Disassembler 是一款Mac上强大的二进制反编译工具，可让您
 
 ![](Assets/HopperDisassembler.jpg)
 
-## Reveal
+## Reveal `21`
 [**下载地址**](https://media.githubusercontent.com/media/chenjie1219/MacApps/master/APP/Reveal.dmg)
 
 ![](Icons/Reveal.png)
