@@ -63,7 +63,7 @@ Beyond Compare这是一款号称码农神器的软件，Beyond Compare能够在M
 
 ![](Assets/BeyondCompare.jpg)
 
-## IconFly
+## IconFly `3.8.3`
 [**下载地址**](https://media.githubusercontent.com/media/chenjie1219/MacApps/master/APP/IconFly.dmg)
 
 ![](Icons/IconFly.png)
