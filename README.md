@@ -15,7 +15,7 @@
 
 ---
 
-## CleanMyMac X `4.3.0`
+## CleanMyMac X `4.4.1`
 [**下载地址**](https://media.githubusercontent.com/media/chenjie1219/MacApps/master/APP/1Password.dmg)
 
 ![](Icons/CleanMyMacX.png)
@@ -144,7 +144,7 @@ MacBooster 是一款Mac上优秀的系统安全扫描和垃圾清理工具，Mac
 
 ![](Assets/MacBooster.jpg)
 
-## iMazing `2.9.3`
+## iMazing `2.9.7`
 [**下载地址**](https://media.githubusercontent.com/media/chenjie1219/MacApps/master/APP/iMazing.dmg)
 
 ![](Icons/iMazing.png)
@@ -264,7 +264,7 @@ VMware Fusion Pro 将 Mac® 上的虚拟化提升到更高的级别，它拥有�
 
 ![](Assets/VMwareFusionPro.jpg)
 
-## Adobe Zii 2019 `4.1.9`
+## Adobe Zii 2019 `4.3.1`
 [**下载地址**](https://media.githubusercontent.com/media/chenjie1219/MacApps/master/APP/Adobe%20Zii.dmg)
 
 ![](Icons/AdobeZii.png)
